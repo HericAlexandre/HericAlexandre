@@ -9,6 +9,8 @@
 - TypeScript
 - HTML | CSS
 - Git | GitHub
+- Next.js
+- NestJS
 
   
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
