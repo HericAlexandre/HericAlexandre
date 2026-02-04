@@ -10,7 +10,9 @@
 - HTML | CSS
 - Git | GitHub
 
-![Herick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HericAlexandre&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HericAlexandre&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=HericAlexandre&theme=dracula)
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
