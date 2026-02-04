@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Herick
+## 👋 Olá, meu nome é Herick Alexandre
 
 💻 Desenvolvedor Front-end  
 ⚛️ React | JavaScript | TypeScript  
